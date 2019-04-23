@@ -1,0 +1,46 @@
+h1 {
+	margin-bottom: 5px;
+	margin-top: 2px;
+	font: 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h2 {
+	margin-top: 2px;
+	margin-bottom: 5px;
+	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h3 {
+	margin-top: 2px;
+	margin-bottom: 10px;
+	color: maroon;
+	font: 10px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.campo {
+	width: 290px;
+	background: transparent url(img/campo.jpg) repeat;
+	color : #747862;
+	height:35px;
+	border:0;
+	margin-bottom:0px;
+	padding-left: 8px;
+	padding-right: 10px;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.campo2 {
+	width: 290px;
+	background: transparent url(img/campo.jpg) repeat;
+	color : #747862;
+	height: 150px;
+	border:0;
+	margin-bottom:0px;
+	padding: 6px 10px 5px 8px;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.requerido {
+	color: maroon;
+	font: 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
